@@ -47,6 +47,5 @@
     },
     "extra": {
         "contao-manager-plugin": "Inszenium\\ContaoUsercentricsBundle\\ContaoManager\\Plugin"
-    },
-    "version": "dev-main"
+    }
 }
