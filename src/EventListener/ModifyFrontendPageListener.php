@@ -4,7 +4,7 @@ namespace Inszenium\ContaoUsercentricsBundle\EventListener;
 
 use Contao\CoreBundle\ServiceAnnotation\Hook;
 use Contao\Template;
-use PageModel;
+use Contao\PageModel;
 
 /*
 <!-- BEGIN Usercentrics related code -->
